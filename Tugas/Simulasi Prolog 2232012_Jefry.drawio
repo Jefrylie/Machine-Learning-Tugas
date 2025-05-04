@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net" modified="2024-07-11T12:36:14.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 OPR/111.0.0.0" etag="MewWu5jBtQ6xzuQ6Y5p6" version="24.3.1" type="device">
+  <diagram name="Page-1" id="QVL2Akm_1ImF-py1RF0w">
+    <mxGraphModel dx="1353" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0z93vDDZplnDkw_Eabaf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0z93vDDZplnDkw_Eabaf-1" target="0z93vDDZplnDkw_Eabaf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0z93vDDZplnDkw_Eabaf-1" value="Kakek" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0z93vDDZplnDkw_Eabaf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0z93vDDZplnDkw_Eabaf-2" target="0z93vDDZplnDkw_Eabaf-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0z93vDDZplnDkw_Eabaf-2" value="Nenek" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0z93vDDZplnDkw_Eabaf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0z93vDDZplnDkw_Eabaf-3" target="0z93vDDZplnDkw_Eabaf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0z93vDDZplnDkw_Eabaf-3" value="Kakek" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0z93vDDZplnDkw_Eabaf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0z93vDDZplnDkw_Eabaf-4" target="0z93vDDZplnDkw_Eabaf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0z93vDDZplnDkw_Eabaf-4" value="Nenek" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0z93vDDZplnDkw_Eabaf-5" value="Joni (Ayah)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0z93vDDZplnDkw_Eabaf-6" value="Ana (Ibu)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0z93vDDZplnDkw_Eabaf-7" value="Jefry(Anak)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0z93vDDZplnDkw_Eabaf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0z93vDDZplnDkw_Eabaf-5" target="0z93vDDZplnDkw_Eabaf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0z93vDDZplnDkw_Eabaf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0z93vDDZplnDkw_Eabaf-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
